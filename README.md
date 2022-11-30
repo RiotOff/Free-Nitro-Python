@@ -7,4 +7,4 @@ Use for your fun and relax!
 </br>
 ```$ python FreeNitro.py```
 
-### CODE FOR ACCESS: SECRETNITROFREE2023
+### CODE FOR ACCESS: SECRETFREENITRO2023
